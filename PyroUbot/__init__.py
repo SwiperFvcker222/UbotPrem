@@ -1,6 +1,4 @@
 
-uvloop.install()
-import uvlop
 import logging
 import os
 import re
